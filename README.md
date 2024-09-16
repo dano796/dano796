@@ -2,8 +2,8 @@
 
 I'm a Computer Science student at UPB, currently in my fourth semester 😄
 
-| ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dano796&theme=dark)
-|:---:|
+| ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dano796&theme=dark) | ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) | ![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white) | ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) | ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)
+|:---:|:---:|
 <!--
 **dano796/dano796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
