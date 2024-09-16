@@ -2,6 +2,8 @@
 
 I'm a Computer Science student at UPB, currently in my fourth semester 😄
 
+https://github-readme-stats.vercel.app/api/top-langs/?username=dano796&theme=dark
+
 <!--
 **dano796/dano796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
