@@ -1,4 +1,6 @@
-## Hi there 👋
+## 🧑‍💻 Hi there, I'm Daniel Ortiz 👋
+
+I'm a Computer Science student at UPB, currently in my fourth semester 😄
 
 <!--
 **dano796/dano796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
