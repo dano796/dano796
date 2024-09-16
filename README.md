@@ -1,6 +1,6 @@
 # 🧑‍💻 Hi there, I'm Daniel Ortiz 👋
 
-I'm a **Computer Science** student at **UPB**, currently in my **fourth semester** 🤩
+I'm a **Systems and Computer Engineering** student at **UPB**, currently in my **fourth semester** 🤩
 <br>
 Down below you'll find my **LinkedIn**, and some tools and programming languages I frequently use 😄 
 
