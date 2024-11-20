@@ -1,11 +1,18 @@
-# 🧑‍💻 Hi there, I'm Daniel Ortiz 👋
+<h1 align="center">🧑‍💻 Hi there, I'm Daniel Ortiz 👋</h1>
+<h3 align="center">I'm a **Systems and Computer Engineering** student at **UPB**, currently in my **fourth semester** 🤩 <br> Down below you'll find my **LinkedIn**, and some tools and programming languages I frequently use 😄</h3>
 
-I'm a **Systems and Computer Engineering** student at **UPB**, currently in my **fourth semester** 🤩
-<br>
-Down below you'll find my **LinkedIn**, and some tools and programming languages I frequently use 😄 
+- 👨‍💻 All of my projects are available at [https://portfolio-daniel-ortiz-aristizabal.vercel.app](https://portfolio-daniel-ortiz-aristizabal.vercel.app)
 
-| ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dano796&theme=dark) | <a href="//www.linkedin.com/in/daniel-ortiz-aristizábal/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;&nbsp; <br> ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white) ![Udemy](https://camo.githubusercontent.com/4f7476a74954b502e10c6c10864ec94359bc9c98f4ca9cbf925772e4f325b9d5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f5564656d792d4131303046463f7374796c653d666f722d7468652d6261646765266c6f676f3d5564656d79266c6f676f436f6c6f723d7768697465) <br> ![Vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) ![VisualStudio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white) <br> ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![CSharp](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) |
-|:---:|:---:|
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/daniel-ortiz-aristizábal" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="daniel-ortiz-aristizábal" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/dano796" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="dano796" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dano796&show_icons=true&locale=en" alt="dano796" /></p>
 
 <!--
 **dano796/dano796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
