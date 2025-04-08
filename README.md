@@ -29,6 +29,12 @@ Below, you can find my **GitHub stats**, a showcase of the tools and programming
 ## 🏆 Certifications
 <a href="https://www.credly.com/badges/8879aa2b-03fe-4348-9c76-ffc044f99933/public_url"><img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations Certification Badge" width="130" height="130"/><a href="https://www.credly.com/badges/325a6fb3-6170-4047-a502-92df9c0c0fe3/public_url"><img src="https://images.credly.com/size/340x340/images/ec621e2a-c8f0-4459-806c-ae11829d372a/image.png" alt="AWS Cloud Essentials Certification Badge" width="130" height="130"/><a href="https://www.credly.com/badges/5e95bc84-052f-44bd-a846-3d40541d5c8e/public_url"><img src="https://images.credly.com/size/680x680/images/4b68a030-53d0-414b-be57-b1837bc3b3e6/image.png" alt="Introduction to Generative AI" width="130" height="130"/>
 
+<br>
+
+## 🌐 Connect with Me
+<a href="https://www.linkedin.com/in/daniel-ortiza/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" width="45" height="45"/></a> &nbsp;
+<a href="https://personal-portfolio-daniel-ortiz.vercel.app/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-plain.svg" alt="Personal Portfolio" width="45" height="45"/></a>
+
 <!--
 **dano796/dano796** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
