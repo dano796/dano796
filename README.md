@@ -1,5 +1,5 @@
 # 🧑‍💻 Hi there, I'm Daniel Ortiz 👋
-I'm a **Systems and Computer Engineering** student at **UPB**, currently in my **fifth semester** 🤩
+I'm a **Systems and Computer Engineering** student at **UPB**, currently in my **sixth semester** 🤩
 Below, you can find my **GitHub stats**, a showcase of the tools and programming languages I frequently work with, and the **certifications** I have earned. 😄
 
 <br>
@@ -33,7 +33,7 @@ Below, you can find my **GitHub stats**, a showcase of the tools and programming
 
 ## 🌐 Connect with Me
 <a href="https://www.linkedin.com/in/daniel-ortiza/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" width="45" height="45"/></a> &nbsp;
-<a href="https://personal-portfolio-daniel-ortiz.vercel.app/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-plain.svg" alt="Personal Portfolio" width="45" height="45"/></a>
+<a href="https://dano796.me/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-plain.svg" alt="Personal Portfolio" width="45" height="45"/></a>
 
 <!--
 **dano796/dano796** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
