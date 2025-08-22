@@ -28,6 +28,18 @@ Below, you can find my **GitHub stats**, a showcase of the tools and programming
 <a href="https://www.linkedin.com/in/daniel-ortiza/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" width="45" height="45"/></a> &nbsp;
 <a href="https://dano796.me/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-plain.svg" alt="Personal Portfolio" width="45" height="45"/></a>
 
+---
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="images/breakout-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="images/breakout-light.svg">
+  <img alt="Breakout Game" src="images/breakout-light.svg">
+</picture>
+
+_Built with [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout)_
+
+---
+
 <!--
 **dano796/dano796** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
