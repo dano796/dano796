@@ -38,8 +38,6 @@ Below, you can find my **GitHub stats**, a showcase of the tools and programming
 
 _Built with [cyprieng/github-breakout](https://github.com/cyprieng/github-breakout)_
 
----
-
 <!--
 **dano796/dano796** is a ✨ *special* ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 Here are some ideas to get you started:
