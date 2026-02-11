@@ -2,9 +2,15 @@
 
 I'm a **Computer Science student (7th semester)** at **Universidad Pontificia Bolivariana (UPB)** 🤩  
 
-I build solutions that connect **software development and data science,** combining **full-stack development, data analysis, and machine learning** to turn data into **scalable and high-impact applications.**
+<!-- I build solutions that connect **software development and data science,** combining **full-stack development, data analysis, and machine learning** to turn data into **scalable and high-impact applications.** -->
 
-<!--Here you’ll find my **GitHub stats**, a showcase of the tools and programming languages I frequently work with and the **certifications & badges** I have earned. 😄-->
+I focus on building solutions at the intersection of **software development and data science**, combining **full-stack development, data analysis, and machine learning** to create **functional, scalable, and impactful software systems**.
+
+<!-- Focused on backend engineering and data science, I design and develop scalable systems powered by data, integrating full-stack development, analytics, and machine learning. -->
+
+<!-- Building at the intersection of **software engineering** and **data science.** -->
+
+<!-- Here you’ll find my **GitHub stats**, a showcase of the **technologies and tools** I frequently work with and the **certifications & badges** I have earned so far 😄 -->
 
 <!-- ## 📊 GitHub Stats -->
 <!-- ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dano796&layout=donut&theme=dark) -->
