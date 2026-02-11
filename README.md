@@ -2,7 +2,7 @@
 
 I'm a **Computer Science student (7th semester)** at **Universidad Pontificia Bolivariana (UPB)** 🤩  
 
-I build **bridge solutions** that connect **software development and data science**, combining **full-stack development, data analysis, and machine learning** to turn data into **scalable and high-impact applications.**
+I build solutions that connect **software development and data science,** combining **full-stack development, data analysis, and machine learning** to turn data into **scalable and high-impact applications.**
 
 <!--Here you’ll find my **GitHub stats**, a showcase of the tools and programming languages I frequently work with and the **certifications & badges** I have earned. 😄-->
 
