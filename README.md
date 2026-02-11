@@ -1,24 +1,33 @@
 # 🧑‍💻 Hi there, I'm Daniel Ortiz 👋
-I'm a **Systems and Computer Engineering** student at **UPB**, currently in my **sixth semester** 🤩
-Below, you can find my **GitHub stats**, a showcase of the tools and programming languages I frequently work with, and the **certifications** I have earned. 😄
 
-## 📊 GitHub Stats
-![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dano796&layout=donut&theme=dark)
+I'm a **Computer Science student (7th semester)** at **Universidad Pontificia Bolivariana (UPB)** 🤩  
+
+I build **bridge solutions** that connect **software development and data science**, combining **full-stack development, data analysis, and machine learning** to turn data into **scalable and high-impact applications.**
+
+<!--Here you’ll find my **GitHub stats**, a showcase of the tools and programming languages I frequently work with and the **certifications & badges** I have earned. 😄-->
+
+<!-- ## 📊 GitHub Stats -->
+<!-- ![github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=dano796&layout=donut&theme=dark) -->
 
 ## 🛠 Technologies & Tools
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="45" height="45"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" alt="TypeScript" width="45" height="45"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" alt="Java" width="45" height="45"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="CSharp" width="45" height="45"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" alt="Python" width="45" height="45"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="45" height="45"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="45" height="45"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" alt="Tailwind CSS" width="45" height="50"/> &nbsp;
 <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" alt="Node.js" width="45" height="45"/> &nbsp; -->
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="45" height="45"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/supabase/supabase-original.svg" alt="Supabase" width="45" height="45"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" alt="Docker" width="45" height="45"/> &nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg" alt="Figma" width="45" height="45"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="45" height="45"/> &nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" alt="GitHub" width="45" height="45"/> &nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="45" height="45"/> &nbsp;
 
-## 🏆 Certifications
+## 🏆 Certifications & Badges
 <a href="https://www.credly.com/badges/8879aa2b-03fe-4348-9c76-ffc044f99933/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations Certification Badge" width="130" height="130"/></a>
 <a href="https://www.credly.com/badges/325a6fb3-6170-4047-a502-92df9c0c0fe3/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" alt="AWS Cloud Essentials Certification Badge" width="130" height="130"/></a>
 <a href="https://www.credly.com/badges/5e95bc84-052f-44bd-a846-3d40541d5c8e/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" alt="Introduction to Generative AI" width="130" height="130"/></a>
