@@ -44,15 +44,23 @@ _Built with [dano796/github-stack-sphere](https://github.com/dano796/github-stac
 
 ## Certifications & Badges
 
-<a href="https://www.credly.com/badges/8879aa2b-03fe-4348-9c76-ffc044f99933/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" alt="GitHub Foundations Certification Badge" width="130" height="130"/></a>
-<a href="https://www.credly.com/badges/325a6fb3-6170-4047-a502-92df9c0c0fe3/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" alt="AWS Cloud Essentials Certification Badge" width="130" height="130"/></a>
-<a href="https://www.credly.com/badges/5e95bc84-052f-44bd-a846-3d40541d5c8e/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" alt="Introduction to Generative AI" width="130" height="130"/></a>
-<a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=BFA3F87360CDAC45CB643C3337254D2AC488C2B33E5BA718A337DB36DC3A5CD4" target="_blank"><img src="https://i.postimg.cc/Wzp6SQ21/MYSQLIMPOCA.png" alt="MySQL Implementation Certified Associate" width="125" height="125"/></a>
+<div align="left">
+  
+<a href="https://www.credly.com/badges/8879aa2b-03fe-4348-9c76-ffc044f99933/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="130"/></a>
+  <a href="https://www.credly.com/badges/325a6fb3-6170-4047-a502-92df9c0c0fe3/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" width="130"/></a>
+  <a href="https://www.credly.com/badges/5e95bc84-052f-44bd-a846-3d40541d5c8e/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" width="130"/></a>
+  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=BFA3F87360CDAC45CB643C3337254D2AC488C2B33E5BA718A337DB36DC3A5CD4" target="_blank"><img src="https://i.postimg.cc/Wzp6SQ21/MYSQLIMPOCA.png" width="125"/></a>
+  
+</div>
 
 ## Connect with Me
 
-<a href="https://www.linkedin.com/in/daniel-ortiza/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn Profile" width="45" height="45"/></a> &nbsp;
-<a href="https://dano796.me/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-plain.svg" alt="Personal Portfolio" width="45" height="45"/></a>
+<div align="left">
+  
+<a href="https://www.linkedin.com/in/daniel-ortiza/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45"/></a>&nbsp;
+  <a href="https://dano796.me/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-plain.svg" width="45"/></a>
+
+</div>
 
 ---
 
