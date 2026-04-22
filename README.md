@@ -53,14 +53,14 @@ _Built with [dano796/github-stack-sphere](https://github.com/dano796/github-stac
   
 </div>
 
-## Connect with Me
+<!-- ## Connect with Me
 
 <div align="left">
   
 <a href="https://www.linkedin.com/in/daniel-ortiza/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" width="45"/></a>&nbsp;
   <a href="https://dano796.me/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/devicon/devicon-plain.svg" width="45"/></a>
 
-</div>
+</div> -->
 
 ---
 
