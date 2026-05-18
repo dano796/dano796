@@ -1,10 +1,10 @@
-# Hi there, I'm Daniel Ortiz 🧑‍💻
+# Hi there, I'm Daniel Ortiz
 
-I'm a Computer Science student (7th semester) at [Universidad Pontificia Bolivariana (UPB)](https://github.com/upbeduco) 🤩
+Computer Science student at [Universidad Pontificia Bolivariana (UPB)](https://github.com/upbeduco)
 
 <!-- I build solutions that connect **software development and data science,** combining **full-stack development, data analysis, and machine learning** to turn data into **scalable and high-impact applications.** -->
 
-I focus on building solutions at the intersection of software development and data science, combining full-stack development, data analysis, and machine learning to create functional, scalable, and impactful software systems.
+Building at the intersection of software engineering and data science.
 
 <!-- Focused on backend engineering and data science, I design and develop scalable systems powered by data, integrating full-stack development, analytics, and machine learning. -->
 
