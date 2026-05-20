@@ -19,7 +19,7 @@ Building at the intersection of software engineering and data science.
 
 <div align="center">
 
-<img src="https://github-stack-sphere.vercel.app/stack.svg?icons=javascript,typescript,python,postgresql,mysql,supabase,express,react,angular,tailwindcss,git,github,figma,trello,html5,css3,docker,pandas,numpy" width="500" alt="Demo" />
+<img src="https://github-stack-sphere.vercel.app/stack.svg?icons=javascript,typescript,python,postgresql,mysql,supabase,express,react,angular,tailwindcss,git,github,figma,trello,html5,css3,docker,pandas,numpy&theme=transparent" width="500" alt="Demo" />
 
 </div>
 
