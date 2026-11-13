@@ -46,10 +46,11 @@ _Built with [dano796/github-stack-sphere](https://github.com/dano796/github-stac
 
 <div align="left">
   
+<a href="https://www.credly.com/badges/a6678414-82d4-4bc9-91fb-3f730ee86eb8/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/4d4693bb-530e-4bca-9327-de07f3aa2348/image.png" width="130"/></a>
+<a href="https://www.credly.com/badges/325a6fb3-6170-4047-a502-92df9c0c0fe3/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" width="130"/></a>
+<a href="https://www.credly.com/badges/5e95bc84-052f-44bd-a846-3d40541d5c8e/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" width="130"/></a>
 <a href="https://www.credly.com/badges/8879aa2b-03fe-4348-9c76-ffc044f99933/public_url" target="_blank"><img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="130"/></a>
-  <a href="https://www.credly.com/badges/325a6fb3-6170-4047-a502-92df9c0c0fe3/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/7cf036b0-c609-4378-a7be-9969e1dea7ab/blob" width="130"/></a>
-  <a href="https://www.credly.com/badges/5e95bc84-052f-44bd-a846-3d40541d5c8e/public_url" target="_blank"><img src="https://images.credly.com/size/680x680/images/e50c657a-edd9-4c93-b1cf-2b6634b54abf/blob" width="130"/></a>
-  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=BFA3F87360CDAC45CB643C3337254D2AC488C2B33E5BA718A337DB36DC3A5CD4" target="_blank"><img src="https://i.postimg.cc/Wzp6SQ21/MYSQLIMPOCA.png" width="125"/></a>
+<!--  <a href="https://catalog-education.oracle.com/ords/certview/sharebadge?id=BFA3F87360CDAC45CB643C3337254D2AC488C2B33E5BA718A337DB36DC3A5CD4" target="_blank"><img src="https://i.postimg.cc/Wzp6SQ21/MYSQLIMPOCA.png" width="125"/></a> -->
   
 </div>
 
